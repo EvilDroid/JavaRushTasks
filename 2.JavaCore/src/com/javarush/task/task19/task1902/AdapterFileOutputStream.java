@@ -7,10 +7,6 @@ import java.io.IOException;
 Адаптер
 */
 
-/**
- * Adapter pattern
- */
-
 public class AdapterFileOutputStream implements AmigoStringWriter {
     private FileOutputStream fileOutputStream;
     public AdapterFileOutputStream (FileOutputStream fileOutputStream){
