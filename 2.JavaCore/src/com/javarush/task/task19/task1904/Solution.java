@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
 import java.util.Scanner;
 
 /* 
-И еще один адаптер
+Adapter
 */
 
 public class Solution {
