@@ -29,7 +29,7 @@ public class Solution {
         fileReader.close();
 
 
-
+        //find numbers in string
         ArrayList<Integer> numbArray = findNumbersInString(fileContent.toString());
 
         StringBuffer numbs = new StringBuffer("");
